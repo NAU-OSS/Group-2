@@ -45,5 +45,7 @@ optional arguments:
 ```
 Thank you for possibly wanting to contribute! Simply fork the repository, make your changes, and submit a pull request. 
 It's that simple!
+
+Feel free to also submit any issues if you find any. They do not need to follow a specific template, just make sure to explain the issue adequately. 
 ```
 
