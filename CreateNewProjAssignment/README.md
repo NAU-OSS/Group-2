@@ -41,3 +41,9 @@ optional arguments:
   -h, --help            show this help message and exit
 ```
 
+# Contributing
+```
+Thank you for possibly wanting to contribute! Simply fork the repository, make your changes, and submit a pull request. 
+It's that simple!
+```
+
